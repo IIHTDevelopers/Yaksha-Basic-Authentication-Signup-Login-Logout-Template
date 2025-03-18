@@ -1,0 +1,16 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "user1",
+            "password": "password1",
+            "token": "fake-jwt-token-12345"
+        },
+        {
+            "id": 2,
+            "username": "user2",
+            "password": "password2",
+            "token": "fake-jwt-token-67890"
+        }
+    ]
+}
